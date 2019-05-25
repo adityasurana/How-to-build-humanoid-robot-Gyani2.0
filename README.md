@@ -15,7 +15,9 @@ Features of Humanoid Robot(Gyani2.0) :-
 
 -> Body parts are made by 3D printing.
 # Requirements
+
 # Process flow of the project:-
 ![process](https://user-images.githubusercontent.com/39646018/58369617-817f6d80-7f1a-11e9-9427-c5bdfd5c733e.png)
+
 
 
