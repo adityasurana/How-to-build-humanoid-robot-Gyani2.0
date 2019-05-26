@@ -15,6 +15,9 @@ Features of Humanoid Robot(Gyani2.0) :-
 
 -> Body parts are made by 3D printing.
 # Requirements :-
+Hardware used in the project is specified in 'hardware_requirement.docx' of this repository.
+
+Dependencies that should be installed on raspberry pi is listed in 'software_dependencies.docx'of this repository.
 
 
 # Process flow of the project:-
