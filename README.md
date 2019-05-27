@@ -50,6 +50,8 @@ any responses related to Money -> 'rs.png'
 Music, Dance -> 'music.png' etc.
 
 (5.c) Physical actions to be performed - then a data signal will be sent to Arduino through serial port (serial data communication) to instruct servo motors to perform required action.
+
+The code is self explanatory.
    
 
 
