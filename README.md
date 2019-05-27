@@ -39,7 +39,17 @@ Google's apiai([Dialogflow](https://dialogflow.com/)) is an end-to-end, build-on
 
 (5) Actions are also predefined accordingly to the response of any query, if response contain action:-
 
-   (a) Recognise me - then face recognition code will be executed. For face recognition I have used opencv and face_recognition                               libraries. The face_encodings in '.dat' format files are pre stored on the system.
+(5.a) Recognise me - then face recognition code will be executed. For face recognition I have used openCV and face_recognition libraries. The face_encodings in '.dat' format files are pre stored on the system.
+
+(5.b) Emotions - then an emotion on the Oled displays will be displayed. Like for 
+
+Love -> Oled will display 'heart.png'
+
+any responses related to Money -> 'rs.png'
+
+Music, Dance -> 'music.png' etc.
+
+(5.c) Physical actions to be performed - then a data signal will be sent to Arduino through serial port (serial data communication) to instruct servo motors to perform required action.
    
 
 
