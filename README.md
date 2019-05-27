@@ -20,7 +20,14 @@ Features of Humanoid Robot(Gyani2.0) :-
 # Requirements :-
 Hardware used in the project is specified in 'hardware_requirement.docx' of this repository.
 
-Dependencies that should be installed on raspberry pi is listed in 'software_dependencies.docx'of this repository.
+Dependencies that should be installed on raspberry pi before starting is listed in 'software_dependencies.docx'of this repository.
+
+# Code Overview:-
+In this repository 'maincode.py' consist of the major processing.
+
+(1) Used google's Speech To Text converter to convert user queries into text from speech.
+(2) That text is then sended to Google's apiai(Dialogflow).
+
 
 
 
