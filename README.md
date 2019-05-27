@@ -23,7 +23,7 @@ Hardware used in the project is specified in 'hardware_requirement.docx' of this
 Dependencies that should be installed on raspberry pi before starting is listed in 'software_dependencies.docx'of this repository.
 
 # Code Overview:-
-In this repository 'maincode.py' consist of the major processing.
+In this repository 'maincode.py' consist of the major processing:-
 
 (1) Used google's Speech To Text converter to convert user queries into text from speech.
 
@@ -37,7 +37,10 @@ Google's apiai([Dialogflow](https://dialogflow.com/)) is an end-to-end, build-on
 
 (4) Now the audio is played using VLC media player present in the system.
 
-(5) Actions are also predefined accordingly to the response of any query,  
+(5) Actions are also predefined accordingly to the response of any query, if response contain action:-
+
+   (a) Recognise me - then face recognition code will be executed. For face recognition I have used opencv and face_recognition                               libraries. The face_encodings in '.dat' format files are pre stored on the system.
+   
 
 
 
