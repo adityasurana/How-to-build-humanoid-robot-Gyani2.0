@@ -33,6 +33,28 @@ Google's apiai([Dialogflow](https://dialogflow.com/)) is an end-to-end, build-on
 
 ![Dialogflow_Process](https://user-images.githubusercontent.com/39646018/58425639-e6bc9580-80b7-11e9-8924-ba7881194739.png)
 
+(3) After sending the queries to Dialogflow(v2_beta) version in text format an appropriate response comes in the form of audio and we save that to our system(on raspberry pi).
+
+(4) Now the audio is played using VLC media player present in the system.
+
+(5) Actions are also predefined accordingly to the response of any query,  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
