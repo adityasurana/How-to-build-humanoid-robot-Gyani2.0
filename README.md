@@ -26,8 +26,11 @@ Dependencies that should be installed on raspberry pi before starting is listed 
 In this repository 'maincode.py' consist of the major processing.
 
 (1) Used google's Speech To Text converter to convert user queries into text from speech.
+
 (2) That text is then sended to Google's apiai(Dialogflow).
-Google's apiai([Dialogflow](https://dialogflow.com/))
+
+Google's apiai([Dialogflow](https://dialogflow.com/)) is an end-to-end, build-once deploy-everywhere development suite for creating conversational interfaces for websites, mobile applications, popular messaging platforms, and IoT devices. You can use it to build interfaces such as chatbots, conversational IVR, etc.
+![Dialogflow_Process](https://user-images.githubusercontent.com/39646018/58425639-e6bc9580-80b7-11e9-8924-ba7881194739.png)
 
 
 
