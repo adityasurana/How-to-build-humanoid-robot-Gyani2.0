@@ -52,6 +52,9 @@ Music, Dance -> 'music.png' etc.
 (5.c) Physical actions to be performed - then a data signal will be sent to Arduino through serial port (serial data communication) to instruct servo motors to perform required action.
 
 The code is self explanatory.
+
+
+![moveent_processflow](https://user-images.githubusercontent.com/39646018/61180244-66cf9800-a631-11e9-943d-7b0c3312839f.PNG)
    
 
 
