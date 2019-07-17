@@ -53,7 +53,10 @@ Music, Dance -> 'music.png' etc.
 
 The code is self explanatory.
 
+ # Body Strcture of Gyani2.0 :-
 ![gyani_bodystructure](https://user-images.githubusercontent.com/39646018/61180295-f6754680-a631-11e9-9307-05d5c1bd5616.png)
+
+# Action(Movements) Processflow :-
 ![moveent_processflow](https://user-images.githubusercontent.com/39646018/61180244-66cf9800-a631-11e9-943d-7b0c3312839f.PNG)
    
 
