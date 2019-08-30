@@ -1,5 +1,6 @@
 # What is the project about?
-This repository contains software design and code of the Humanoid Robot(Gyani 2.0) created by our team. It works as a receptionist for our college and also got featured in National press (Times of India, Danik Bhaskar and live telecast on News 18) of India.
+This repository contains software design and code of the Humanoid Robot(Gyani 2.0) created by our team. It works as a receptionist for our college and also got featured in National press 
+([Times Of India](https://timesofindia.indiatimes.com/videos/entertainment/events/jaipur/students-of-jecrc-make-gyani-2-0-a-humanoid-robot/videoshow/68449295.cms?from=mdr), Danik Bhaskar and live telecast on News 18) of India.
 
 Features of Humanoid Robot(Gyani2.0) :-
 
