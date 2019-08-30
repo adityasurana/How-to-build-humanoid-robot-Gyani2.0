@@ -20,7 +20,7 @@ Features of Humanoid Robot(Gyani2.0) :-
 # Requirements :-
 Hardware used in the project is specified in 'Docs/hardware_requirement.docx' of this repository.
 
-Dependencies that should be installed on raspberry pi before starting is listed in 'software_dependencies.docx'of this repository.
+Dependencies that should be installed on raspberry pi before starting is listed in 'Docs/software_dependencies.docx'of this repository.
 
 # Code Overview:-
 In this repository 'Scripts/maincode.py' consist of the major processing:-
