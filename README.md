@@ -43,11 +43,11 @@ Google's apiai([Dialogflow](https://dialogflow.com/)) is an end-to-end, build-on
 
 (5.b) Emotions - then an emotion on the Oled displays will be displayed. Like for 
 
-Love -> Oled will display 'img/heart.png'
+Love -> Oled will display 'img/Oled_img/heart.png'
 
-any responses related to Money -> 'img/rs.png'
+any responses related to Money -> 'img/Oled_img/rs.png'
 
-Music, Dance -> 'img/music.png' etc.
+Music, Dance -> 'img/Oled_img/music.png' etc.
 
 (5.c) Physical actions to be performed - then a data signal will be sent to Arduino through serial port (serial data communication) to instruct servo motors to perform required action.
 
